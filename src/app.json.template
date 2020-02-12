@@ -9,9 +9,9 @@
     "rtf",
     "odt"
   ],
-  "companyName": "[ COMPANY NAME HERE ]",
-  "companyLogoPath": "",
-  "companyUrl": "",
+  "companyName": "Phoenix Works",
+  "companyLogoPath": "https://pbs.twimg.com/profile_images/984575543197630465/vQM48t8Y_400x400.jpg",
+  "companyUrl": "https://www.phoenixworks.us/",
   "careersUrl": "",
   "defaultLocale": "en-US",
   "supportedLocales": [
@@ -24,14 +24,14 @@
   "maxUploadSize": 5242880,
   "service": {
     "batchSize": 500,
-    "corpToken": "[ CORP TOKEN HERE ]",
+    "corpToken": "477UDD",
     "port": null,
-    "swimlane": "[ SWIMLANE HERE ]",
+    "swimlane": "91",
     "fields": [
       "id",
       "title",
       "publishedCategory(id,name)",
-      "address(city,state,countryName)",
+      "address(city,state,zip)",
       "employmentType",
       "dateLastPublished",
       "publicDescription",
@@ -77,7 +77,7 @@
   },
   "privacyConsent": {
     "consentCheckbox": false,
-    "sidebarLink": false,
+    "sidebarLink": true,
     "privacyPolicyUrl": "/privacy"
   }
 }
